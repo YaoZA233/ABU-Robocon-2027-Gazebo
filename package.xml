@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>robocon_2027_gazebo</name>
+  <version>1.0.0</version>
+  <description>Gazebo simulation resources for the RoboCon 2027 field.</description>
+  <maintainer email="maintainer@example.com">RoboCon team</maintainer>
+  <license>Proprietary</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>ament_index_python</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>launch</exec_depend>
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

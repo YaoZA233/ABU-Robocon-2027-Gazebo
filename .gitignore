@@ -1,0 +1,11 @@
+# ROS 2 / colcon generated files
+build/
+install/
+log/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local metadata emitted by the STEP conversion tool
+robocon_2027_field/mesh_stats.json
