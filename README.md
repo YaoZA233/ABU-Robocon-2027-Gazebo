@@ -20,9 +20,7 @@ worlds/
   robocon_2027_classic.world Gazebo Classic 场景
 launch/
   robocon_2027_field.launch.py  ROS 2 场地启动文件
-tools/
-  convert_step_to_gazebo.py  STEP 到 Gazebo 资源转换工具
-pictures/field_overview.jpg  场地预览图
+pictures/  场地预览图
 ```
 
 场地模型的 Gazebo 外包围盒约为 `11.1 m × 11.1 m × 1.75 m`，原点位于场地中心附近，地面高度约为 `z = 0`。源 CAD 使用毫米和 Y-up 坐标；模型中已完成米制缩放和 Gazebo 坐标旋转。
