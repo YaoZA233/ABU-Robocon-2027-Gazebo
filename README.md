@@ -99,12 +99,12 @@ gazebo --verbose "$PACKAGE_SHARE/worlds/robocon_2027_classic.world"
 
 ## 场地预览
 
-![robocon_2027_gzclient_camera(1)-2026-08-15T16_45_36.202817](/home/zhonghui/gazebo_RoboCon2027场地/pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_45_36.202817.jpg)
+![robocon_2027_gzclient_camera(1)-2026-08-15T16_45_36.202817](pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_45_36.202817.jpg)
 
-![robocon_2027_gzclient_camera(1)-2026-08-15T16_46_25.606779](/home/zhonghui/gazebo_RoboCon2027场地/pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_46_25.606779.jpg)
+![robocon_2027_gzclient_camera(1)-2026-08-15T16_46_25.606779](pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_46_25.606779.jpg)
 
-![robocon_2027_gzclient_camera(1)-2026-08-15T16_46_40.627813](/home/zhonghui/gazebo_RoboCon2027场地/pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_46_40.627813.jpg)
+![robocon_2027_gzclient_camera(1)-2026-08-15T16_46_40.627813](pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_46_40.627813.jpg)
 
-![robocon_2027_gzclient_camera(1)-2026-08-15T16_47_02.148857](/home/zhonghui/gazebo_RoboCon2027场地/pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_47_02.148857.jpg)
+![robocon_2027_gzclient_camera(1)-2026-08-15T16_47_02.148857](pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_47_02.148857.jpg)
 
-![robocon_2027_gzclient_camera(1)-2026-08-15T16_47_18.429997](/home/zhonghui/gazebo_RoboCon2027场地/pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_47_18.429997.jpg)
+![robocon_2027_gzclient_camera(1)-2026-08-15T16_47_18.429997](pictures/robocon_2027_gzclient_camera(1)-2026-08-15T16_47_18.429997.jpg)
