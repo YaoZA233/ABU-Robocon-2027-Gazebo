@@ -1,3 +1,5 @@
+**中文** | [English](README_EN.md)
+
 # ABU Robocon 2027 Gazebo 场地
 
 ABU 亚太大学生机器人大赛 2027「追寻努山塔拉之灵石（The Pursuit of Mustika Nusantara）」的静态 Gazebo 场地模型。
